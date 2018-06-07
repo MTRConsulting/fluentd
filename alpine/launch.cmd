@@ -1,0 +1,1 @@
+docker run --name fluentd-alpine-test -d -p 24224:24224 -p 24224:24224/udp -v /data:/fluentd/log fluentd-alpine-test:v0

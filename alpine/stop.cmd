@@ -1,0 +1,1 @@
+docker stop fluentd-alpine-test:v0
